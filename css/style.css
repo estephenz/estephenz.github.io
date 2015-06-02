@@ -1,3 +1,6 @@
-body {background-color: blue;}
-
-h1, h2, p {color: pink;}
+body {
+  background: rgb(0,154,223);
+  color: rgb(255,255,255);
+  font-size:;
+  font-family:arial, helvetica, sans-serif;
+}
