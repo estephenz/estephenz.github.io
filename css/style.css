@@ -1,6 +1,10 @@
 body {
   background: rgb(0,154,223);
   color: rgb(255,255,255);
-  font-size:;
-  font-family:arial, helvetica, sans-serif;
+ }
+p {
+	font-family:arial, helvetica, sans-serif;
+  	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
 }
