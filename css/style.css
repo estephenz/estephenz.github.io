@@ -2,7 +2,7 @@ body {
   background: rgb(0,154,223);
   color: rgb(255,255,255);
  }
-p {
+p, li {
 	font-family:arial, helvetica, sans-serif;
   	font-size: 18px;
 	line-height: 1.5em;
