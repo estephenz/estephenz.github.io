@@ -9,4 +9,9 @@ p, li {
 	margin: 2em;
 	width: 80;
 }
-title, slogan { font-family: font-family: 'Cinzel', serif; font-weight: 400; }
+title, { 
+	font-family: font-family: c font-weight: 400; 
+	font-family:'Quicksand', sans-serif;
+  	font-size: 48px;
+  	text-shadow: 4px 4px 4px #aaa;
+}
