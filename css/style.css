@@ -10,6 +10,10 @@ h1 {
   	font-size: 3em;
   	text-shadow: 4px 4px 4px #aaa;
 }
+section {
+	border:2px #000 solid;
+	padding:5em 0;
+}
 
 div {
 	background: rgb(124,138,141);
