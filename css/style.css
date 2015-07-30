@@ -1,6 +1,6 @@
 body {
-	background: rgb(0,154,223);
-	color: rgb(255,255,255);
+	background: rgb(255,255,255);
+	color: rgb(0,154,223);
 	font-family:arial, helvetica, sans-serif;
 	font-size: 18px;
 }
@@ -16,5 +16,5 @@ section {
 }
 
 div {
-	background: rgb(124,138,141);
+	background: rgb(255,255,255);
 }
